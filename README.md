@@ -32,21 +32,6 @@ Sigue estos pasos para instalar y ejecutar la aplicación:
 
 El proyecto sigue la siguiente estructura de directorios:
 
-css
-├── public
-│ ├── index.html
-├── src
-│ ├── components
-│ │ ├── Header.vue
-│ │ ├── Guitar.vue
-│ │ └── Footer.vue
-│ ├── data
-│ │ └── guitars.js
-│ ├── styles.css
-│ └── main.js
-├── package.json
-└── README.md
-
 - La carpeta `public` contiene el archivo `index.html`, que es la página principal de la aplicación.
 - La carpeta `src` contiene los componentes de la aplicación, los datos de las guitarras y el archivo principal `main.js`.
 - El archivo `package.json` especifica las dependencias del proyecto y los scripts de comandos.
