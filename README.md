@@ -45,6 +45,10 @@ El proyecto sigue la siguiente estructura de directorios:
 - Si deseas eliminar una guitarra del carrito, haz clic en el botón "X" junto a la guitarra correspondiente.
 - Si deseas vaciar completamente el carrito, haz clic en el botón "Vaciar carrito".
 
+## Link del sitio en producción
+
+(https://aesthetic-kulfi-b31126.netlify.app/)
+
 ## Contribución
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna mejora, puedes abrir un issue en este repositorio o enviar un pull request con tus cambios.
